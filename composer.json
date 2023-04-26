@@ -4,7 +4,7 @@
     "type": "library",
     "description": "Package for Laravel that merges multiple PDFs into one.",
     "keywords": [
-      "grofgraf",
+      "wfsantos95",
       "laravel",
       "pdf",
       "merger",
@@ -14,7 +14,7 @@
     "license": "MIT",
     "authors": [
       {
-        "name": "Grof Graf"
+        "name": "Wfsantos"
       }
     ],
     "require": {
@@ -23,7 +23,7 @@
     },
     "autoload": {
       "psr-4": {
-          "GrofGraf\\LaravelPDFMerger\\": "src"
+          "Wfsantos95\\LaravelPDFMerger\\": "src"
       }
     }
 }
