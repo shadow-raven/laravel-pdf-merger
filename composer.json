@@ -27,6 +27,6 @@
           "Wfsantos95\\LaravelPDFMerger\\Providers\\": "vendor/wfsantos95/laravel-pdf-merger/src/providers/",
           "Wfsantos95\\LaravelPDFMerger\\": "src"
       }
-    }
+    },
     "minimum-stability": "dev-master"
 }
