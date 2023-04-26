@@ -28,4 +28,5 @@
           "Wfsantos95\\LaravelPDFMerger\\": "src"
       }
     }
+    "minimum-stability": "dev-master"
 }
