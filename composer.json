@@ -23,6 +23,8 @@
     },
     "autoload": {
       "psr-4": {
+          "Wfsantos95\\LaravelPDFMerger\\Facades\\": "vendor/wfsantos95/laravel-pdf-merger/src/facades/",
+          "Wfsantos95\\LaravelPDFMerger\\Providers\\": "vendor/wfsantos95/laravel-pdf-merger/src/providers/",
           "Wfsantos95\\LaravelPDFMerger\\": "src"
       }
     }
