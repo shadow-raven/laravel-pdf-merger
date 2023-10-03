@@ -1,6 +1,6 @@
 <?php
 
-namespace Wfsantos95\LaravelPDFMerger;
+namespace ShadowRaven\LaravelPDFMerger;
 
 use setasign\Fpdi\Fpdi;
 use Illuminate\Filesystem\Filesystem;

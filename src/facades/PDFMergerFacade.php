@@ -1,6 +1,6 @@
 <?php
 
-namespace Wfsantos95\LaravelPDFMerger\Facades;
+namespace ShadowRaven\LaravelPDFMerger\Facades;
 
 use \Illuminate\Support\Facades\Facade;
 

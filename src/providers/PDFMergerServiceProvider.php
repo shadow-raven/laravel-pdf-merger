@@ -1,9 +1,9 @@
 <?php
 
-namespace Wfsantos95\LaravelPDFMerger\Providers;
+namespace ShadowRaven\LaravelPDFMerger\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Wfsantos95\LaravelPDFMerger\PDFMerger;
+use ShadowRaven\LaravelPDFMerger\PDFMerger;
 
 class PDFMergerServiceProvider extends ServiceProvider
 {

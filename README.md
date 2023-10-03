@@ -8,7 +8,7 @@ PDF merger for Laravel inspired by another package, created for personal use. Te
 
 ## Installation
 ```bash
- $ composer require wfsantos95/laravel-pdf-merger
+ $ composer require shadow-raven/laravel-pdf-merger
 ```
 
 ## Configuration
@@ -16,12 +16,12 @@ Make the following changes to the main configuration file located at `config/app
 ```php
 'providers' => [
    ...
-   GrofGraf\LaravelPDFMerger\Providers\PDFMergerServiceProvider::class
+   ShadowRaven\LaravelPDFMerger\Providers\PDFMergerServiceProvider::class
 ],
 
 'aliases' => [
    ...
-   'PDFMerger' => GrofGraf\LaravelPDFMerger\Facades\PDFMergerFacade::class
+   'PDFMerger' => ShadowRaven\LaravelPDFMerger\Facades\PDFMergerFacade::class
 ]
 ```
 

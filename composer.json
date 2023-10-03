@@ -1,10 +1,9 @@
 {
-    "name": "wfsantos95/laravel-pdf-merger",
-    "version": "1.0.1",
+    "name": "shadow-raven/laravel-pdf-merger",
     "type": "library",
     "description": "Package for Laravel that merges multiple PDFs into one.",
     "keywords": [
-      "wfsantos95",
+      "shadow-raven",
       "laravel",
       "pdf",
       "merger",
@@ -14,7 +13,7 @@
     "license": "MIT",
     "authors": [
       {
-        "name": "Wfsantos"
+        "name": "ShadowRaven"
       }
     ],
     "require": {
@@ -23,9 +22,9 @@
     },
     "autoload": {
       "psr-4": {
-          "Wfsantos95\\LaravelPDFMerger\\Facades\\": "vendor/wfsantos95/laravel-pdf-merger/src/facades/",
-          "Wfsantos95\\LaravelPDFMerger\\Providers\\": "vendor/wfsantos95/laravel-pdf-merger/src/providers/",
-          "Wfsantos95\\LaravelPDFMerger\\": "src"
+          "ShadowRaven\\LaravelPDFMerger\\Facades\\": "vendor/ShadowRaven/laravel-pdf-merger/src/Facades/",
+          "ShadowRaven\\LaravelPDFMerger\\Providers\\": "vendor/ShadowRaven/laravel-pdf-merger/src/Providers/",
+          "ShadowRaven\\LaravelPDFMerger\\": "src"
       }
     },
     "minimum-stability": "stable"
